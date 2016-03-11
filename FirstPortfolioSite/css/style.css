@@ -1,0 +1,24 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #747704
+	}
+
+.img-circle {
+    border-radius: 50%;
+    }
+	
+.text-muted {
+	color: #BCBBBB;
+	}
+
+.title-logo {
+	margin-top:20px;
+	}
+	
+.title-super {
+	font-size:60px;
+	}
+
+.bottom-space {
+	margin-bottom: 2em;
+	}
